@@ -18,7 +18,7 @@ I prefer developing small but complete systems with real-world relevance.
 
 ---
 
-## Robotics Work
+## Projects
 
 So far, I have developed
 
