@@ -1,9 +1,8 @@
 # Süleyman Karaca
 
-I am a high school student working on robotics systems, embedded software, and electronic design.  
+I am a high school student working on robotics systems, artificial intelligence and machine learning.  
 My main focus is building functional systems by integrating mechanical design, hardware, and software together.
-
-This GitHub profile is used to document my technical work, development process, and engineering approach.
+Also i'm developing AI/ML projects.
 
 ---
 
@@ -21,13 +20,11 @@ I prefer developing small but complete systems with real-world relevance.
 
 ## Robotics Work
 
-So far, I have developed **8 different robotic projects**, including:
+So far, I have developed
 
-- 3 line follower robots  
-- 1 mobile robot  
-- 2 mini sumo robots  
-- 1 IoT-based system  
-- 1 alert and detection system  
+- 1 Artificial Intelligence named L.U.N.A.R
+- 2 Website projects named ÖTS (Student Tracking System) and F.I.L.T.R.E
+- 3 Robots
 
 These projects were mainly developed for:
 - competitions,
@@ -36,50 +33,23 @@ These projects were mainly developed for:
 
 ### Mechanical Design
 - All mechanical designs were created by me.
-- I actively use **Fusion 360** and **FreeCAD**.
+- I share my mechanical designs in my Thingiverse account.
 - I have designed many 3D parts and mechanical components.
 
-### Control and Motor Drivers
-- DC motors were used in my projects.
-- The most commonly used motor driver is **TB6612FNG**.
-- I have also worked other drivers.
-- A classical **PID control** algorithm was implemented.
-- PID calculations are handled directly in the code.
+### Software
+- All software was developed by me but i use AI for help.
+- I know Python, C#, Node.js, React, CSS and a little C++.
+- I first focus on making the code work correctly.
+
 
 ---
 
 ## Electronics and PCB Design
 
 - I have designed **two different custom PCB boards**.
-- My work mainly focuses on motor control and system electronics.
 - Design and simulation tools:
   - EasyEDA
-  - LTspice
-
-Circuit designs are based on datasheet analysis and practical testing.
-
----
-
-## Software Practices
-
-- I first focus on making the code work correctly.
-- Then I gradually refactor it to improve structure and readability.
-- I use comments when necessary, but avoid excessive commenting.
-- My code is written for:
-  - educational purposes,
-  - project development,
-  - experimental exploration.
-
-README detail levels may vary depending on the project.
-
----
-
-## Tools and Software
-
-- Fusion 360  
-- FreeCAD  
-- EasyEDA  
-- LTspice  
+  - KiCad
 
 ---
 
@@ -102,19 +72,3 @@ The content will be updated as new projects are developed.
 ---
 
 > “The truest guide in life is science.”
-
-
-<!--
-**suleymankaraca1/suleymankaraca1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
