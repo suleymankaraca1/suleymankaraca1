@@ -1,74 +1,66 @@
 # Süleyman Karaca
 
-I am a high school student working on robotics systems, artificial intelligence and machine learning.  
-My main focus is building functional systems by integrating mechanical design, hardware, and software together.
-Also i'm developing AI/ML projects.
+**High School Student — Software & AI Developer**  
+Karacabey Ulviye Matlı Science High School, Bursa, Turkey
 
 ---
 
-## Technical Approach
+## About
 
-The main principles I follow in my projects are:
-
-- Systems should be physically functional, not only theoretically correct.
-- Hardware and software must be designed as a single system.
-- Every project should be testable, measurable, and improvable.
-
-I prefer developing small but complete systems with real-world relevance.
+I am a high school student focused on software development and artificial intelligence. I build functional, real-world systems that are testable and measurable. I have stepped away from hardware and robotics and am now fully focused on software and AI/ML.
 
 ---
 
 ## Projects
 
-So far, I have developed
+### F.I.L.T.R.E
+An AI-powered content verification platform. Uses five custom algorithms for deterministic claim scoring without relying on generative AI, eliminating hallucination risk. Integrates NLP-based NLI models and generates structured verification reports.
 
-- 1 Artificial Intelligence named L.U.N.A.R
-- 2 Website projects named ÖTS (Student Tracking System) and F.I.L.T.R.E
-- 3 Robots
+### VERITAS
+A multi-agent fact verification system. Uses an orchestrator-reporter architecture with dedicated researcher agents and a source validation layer for structured, traceable claim verification. Built for the Band of Agents Hackathon (lablab.ai, 2026).
 
-These projects were mainly developed for:
-- competitions,
-- exhibitions,
-- learning through prototyping.
+### OTS — Student Tracking System
+A web platform with teacher, admin, student, and parent panels. Features messaging, attendance tracking, and PDF-based exam analysis. Piloted with approximately 70 users.
 
-### Mechanical Design
-- All mechanical designs were created by me.
-- I share my mechanical designs in my Thingiverse account.
-- I have designed many 3D parts and mechanical components.
+### MelodAI
+An AI system that generates royalty-free instrumental melodies across six emotional categories: calm, joyful, and others. Produces original music without vocals.
 
-### Software
-- All software was developed by me but i use AI for help.
-- I know Python, C#, Node.js, React, CSS and a little C++.
-- I first focus on making the code work correctly.
+### LUNAR AI
+A 62-million parameter language model built from scratch. One of my earliest large-scale AI projects, developed to understand model architecture and training pipelines.
 
+### Orby
+A personal voice assistant running locally. Uses Whisper for speech recognition, a local LLM via Ollama, and edge-tts for voice output. Runs on an RTX 4070.
 
 ---
 
-## Electronics and PCB Design
+## Technical Skills
 
-- I have designed **two different custom PCB boards**.
-- Design and simulation tools:
-  - EasyEDA
-  - KiCad
+**Languages**
+- Python, JavaScript, Node.js, React, CSS, C# — C++ (basic)
+
+**Frameworks & Tools**
+- FastAPI, Flask, PostgreSQL, PyTorch
+- LangGraph, LangChain
+
+**Previously**
+- Arduino, EasyEDA, KiCad, Fusion 360 — no longer active focus
 
 ---
 
-## Experience and Participation
+## Activities
 
-I have participated in and developed projects for:
 - Teknofest
-- TÜBİTAK 4006
-- TÜBİTAK 2204
-- MEB robotics competitions
-- Various robotics events and exhibitions
+- TÜBİTAK 4006 / 2204-A
+- MEB Robotics Competitions
+- International Hackathons and Ideathons
+- Panels and Workshops
 
 ---
 
 ## Open Source
 
-Open-source projects and technical examples will be shared on this profile.  
-The content will be updated as new projects are developed.
+Projects and technical work will be shared on this profile as they are completed.
 
 ---
 
-> “The truest guide in life is science.”
+> "The truest guide in life is science."
